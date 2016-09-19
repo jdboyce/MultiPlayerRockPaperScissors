@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe.config
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.pdb
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors - Two or Three Player\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe.config
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors - Two or Three Player\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 2\Rock Paper Scissors - Two or Three Player\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.pdb
